@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadlimfst
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning nodeJS
+- 🌱 My role is backend developer, but currently on fullstack
 - 📫 How to reach me, fadlithirafi.ft@gmail.com
 
 <!---
